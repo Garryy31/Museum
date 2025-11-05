@@ -50,7 +50,7 @@ an individual is officially representing the project or its community.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to  
-the project team at **[your-email@example.com]**.  
+the project team at **[sonawanegaurav639@gmail.com]**.  
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
