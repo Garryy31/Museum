@@ -81,8 +81,7 @@ Feel free to fork the repo, make improvements, and submit a pull request.
 
 📬 Contact
 Developer: Garry (Gaurav Sonawane)
-Email: [your-email@example.com]
-Portfolio: http://closedmindthought.unaux.com
+Email: [sonawanegaurav639@gmail.com]
+Portfolio: https://garryy31.github.io/gauravportfolio.github.io/
 
-Would you like me to include a badges section (for tech stack, license, or GitHub stats)?
-It gives the README a more polished, professional look.
+
